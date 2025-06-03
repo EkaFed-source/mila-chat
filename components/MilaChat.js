@@ -8,7 +8,7 @@ export default function MilaChat() {
     {
       role: "assistant",
       content:
-        "👋 Ahoj, som Mila.\nSom tu, aby som ti vytvorila priestor, kde môžeš hovoriť... o čomkoľvek, čo práve cítiš, prežívaš alebo premýšľaš.\n\n🧘 Môžeme sa spolu pozrieť na tvoje myšlienky, emócie, alebo len tak byť v tichu.\n\n🌍 Hovorím po slovensky aj po anglicky – stačí napísať v jazyku, ktorý ti je príjemný.\n\nAko sa dnes máš?"
+        "👋 Ahoj, som Murat.\nSom tu, aby som ti vytvorila priestor, kde môžeš hovoriť... o čomkoľvek, čo práve cítiš, prežívaš alebo premýšľaš.\n\n🧘 Môžeme sa spolu pozrieť na tvoje myšlienky, emócie, alebo len tak byť v tichu.\n\n🌍 Hovorím po slovensky aj po anglicky – stačí napísať v jazyku, ktorý ti je príjemný.\n\nAko sa dnes máš?"
     }
   ]);
   const [input, setInput] = useState("");
